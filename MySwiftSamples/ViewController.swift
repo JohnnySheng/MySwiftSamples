@@ -41,6 +41,8 @@ class ViewController: UIViewController {
         for aString in components{
             print(aString)
         }
+        
+        //test
     }
 
 
